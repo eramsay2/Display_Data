@@ -162,6 +162,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.DefaultCompany.Display_CSV
     Standalone: com.DefaultCompany.Display-CSV
   buildNumber:
     Standalone: 0
@@ -849,7 +850,7 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 2
+  activeInputHandler: 1
   windowsGamepadBackendHint: 0
   cloudProjectId: 452fd905-2c63-462d-bd01-c182a42612d7
   framebufferDepthMemorylessMode: 0
